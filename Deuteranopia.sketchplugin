@@ -1,0 +1,4 @@
+#import 'colorblindness.js'
+
+var s = selection[0]
+applyFilterToLayer("deuteranopia", s)
